@@ -1,0 +1,9 @@
+morgage:
+  interest_rate: 1 # אחוז ריבית
+  num_of_years: 30 # מס השנים של החזר המשכנתא
+
+apartment:
+  city : 'Kfar-Sava'
+  price: 2700000 # מחיר הדירה
+  num_of_rooms : 4 # מס' חדרים
+  meterage : 110 # מטר-רבוע
